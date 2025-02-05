@@ -31,4 +31,5 @@ Hardware:
 
 ## Setup and Configuration
 
+<img src="https://github.com/bidayatulhidayah/Local-Active-Noise-Cancellation-for-Vehicle-Cabin/blob/main/Image%20and%20Diagram%20-%20ANC/Setup%201.png?raw=true" alt="Setup" width="400" />
 
